@@ -14,6 +14,7 @@
 	Pseq([a, b, c, d]).play;
 	
 ###### It is 138 characters in total!
+###### I also played with tuning and had fun with those as well!!
 	
 ##### While I was playing with the Pseq example in one of the Codealong files, I thought it'd be cool to do the sequence of chords for cadence. The a chord isa C major chord with a third on top of the chord (I), the b chord is a D minor chord (II6), the c chord is a G major chord (V7), and a C major chord for the d chord (I). I wanted to add more chords to make the sequence fancier, but I had to give up some of the chords like F major (IV) for the Plagal cadence, A minor (VI) for the Deceptive cadence etc,,,
 
