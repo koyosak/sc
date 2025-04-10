@@ -4,7 +4,7 @@
 
 #### I chose to analyze "dispense" from the album ["not-their-technology"](https://github.com/illiichi/not-their-technologies/blob/develop/src/not_their_technologies/core.clj) by illiichi. I saw that this artist is from Japan. Since I'm also Japanese, I thought it would be interesting to analyze piece by someone who's from Japan.
 
-## The code breakdown
+# Code 
 
 > #### This code is written in Clojure which is a programming language. It's not written in sclang.
 
@@ -44,6 +44,8 @@
 ##### 1, Install [JDK](https://www.oracle.com/java/technologies/downloads/?er=221886#jdk24-mac)(Java Development Kit)
 
 ##### 2, Go to Terminal and install Clojure and Overtone. [Tutorial](https://www.youtube.com/watch?v=eUixwf64sHg)
+
+# Code Breakdown
 
 ## - ns
 
