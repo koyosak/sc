@@ -114,12 +114,13 @@ var window, view, patterns, names, colors;
 patterns = [\melody, \melody2, \melody3, \melody4, \melody5, \harmony, \harmony2, \harmony3, \harmony4, \harmony5, \harmony6];
 names = ["Melody1", "Melody2", "Melody3", "Melody4", "Melody5", "Harmony 1", "Harmony 2", "Harmony 3", "Harmony 4", "Harmony 5", "Harmony6"];
 
-// Define a color list matching patterns
+// Define a color of each button
 colors = [
 	Color(0.2, 0.7, 1), Color(0.2, 0.7, 1), Color(0.2, 0.7, 1), Color(0.2, 0.7, 1), Color(0.2, 0.7, 1),  // Melodies
 	Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6) // Harmonies
 ];
 
+// Define the size of the window
 window = Window("Pattern Controller", Rect(100, 100, 315, 430));
 view = window.view;
 

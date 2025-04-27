@@ -36,7 +36,7 @@
 
 ## GUI
 
-#### One of the thing I really liked when I saw Wendy playing the drum patch is how GUI makes Supercollider accessible. It inspired me to use GUI for this project.
+#### One of the thing I really liked when I saw Wendy playing the drum patch is how GUI makes Supercollider accessible. It inspired me to use GUI for this project. I put extra effort to make it intuitive by putting buttons effectively and use color to define each button.
 
 #### I defined window, view, patterns, names, colors first.
 
