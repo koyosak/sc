@@ -7,7 +7,7 @@ SynthDef(\blip, { |freq|
 }).add;
 )
 
-// Define melodies and harmonies
+// Melodies and harmonies
 (
 Pdef(\melody, Pbind(
 	\instrument, \blip,
@@ -120,10 +120,10 @@ colors = [
 	Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6), Color(0.8, 0.3, 0.6) // Harmonies
 ];
 
-window = Window("Pattern Controller", Rect(100, 100, 315, 430)); // a little taller and wider
+window = Window("Pattern Controller", Rect(100, 100, 315, 430));
 view = window.view;
 
-// Change window background to a light gray
+// Change window background
 window.background_(Color.black);
 
 // Set decorator
